@@ -76,14 +76,17 @@ To explore and demonstrate the ability of text-to-image and text-to-video genera
 | **Lighting & Textures** | 5 / 10 | 9.5 / 10 | Volumetric and photographic keywords yield realistic shading |
 | **Artifact Reduction** | Moderate artifacts | Minimal artifacts | Detailed style anchoring prevents frame morphing |
 
----
 
 ### Deliverables Summary:
 1. **Prompts Created:** Baseline and multi-variable cinematic prompts specifying camera angle, lighting, texture, and motion dynamics.
 2. **Generated Media:** High-resolution visual outputs demonstrating the impact of iterative prompt refinement.
 3. **Comparative Analysis:** Detailed documentation of temporal coherence, motion consistency, and prompt fidelity.
 
----
+
+https://github.com/user-attachments/assets/e46a09bc-8d12-4b9a-9a0b-2a7cf8e3688e
+
+
+
 
 ### Result:
 The exploration of prompting techniques for image and video generation was conducted successfully. The comparative evaluation verified that structured prompts specifying camera dynamics, lighting conditions, and stylistic constraints significantly enhance visual fidelity and temporal coherence in AI-generated media.
